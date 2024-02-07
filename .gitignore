@@ -1,0 +1,3 @@
+# Ignore .idea and secret-password
+.idea/
+secret-passwords.txt
